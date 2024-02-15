@@ -1,0 +1,1 @@
+D:\projeckets\rust\xaoc_os\target\x86_64-xaoc_os\debug\xaoc_os: D:\projeckets\rust\xaoc_os\src\main.rs D:\projeckets\rust\xaoc_os\src\panic_wait.rs D:\projeckets\rust\xaoc_os\src\serial.rs D:\projeckets\rust\xaoc_os\src\vga_buffer.rs

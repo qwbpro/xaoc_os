@@ -1,0 +1,11 @@
+D:\projeckets\rust\xaoc_os\target\x86_64-pc-windows-gnu\debug\deps\libfutures_task-c9ce518a3cd07567.rmeta: D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\lib.rs D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\spawn.rs D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\arc_wake.rs D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\waker.rs D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\waker_ref.rs D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\future_obj.rs D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\noop_waker.rs
+
+D:\projeckets\rust\xaoc_os\target\x86_64-pc-windows-gnu\debug\deps\futures_task-c9ce518a3cd07567.d: D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\lib.rs D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\spawn.rs D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\arc_wake.rs D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\waker.rs D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\waker_ref.rs D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\future_obj.rs D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\noop_waker.rs
+
+D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\lib.rs:
+D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\spawn.rs:
+D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\arc_wake.rs:
+D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\waker.rs:
+D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\waker_ref.rs:
+D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\future_obj.rs:
+D:\APP\myrust\.cargo\registry\src\index.crates.io-6f17d22bba15001f\futures-task-0.3.30\src\noop_waker.rs:
