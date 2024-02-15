@@ -1,7 +1,0 @@
-cargo:rerun-if-changed=D:\projeckets\rust\xaoc_os\Cargo.toml
-cargo:rustc-link-search=native=D:\projeckets\rust\xaoc_os\target\bootimage\bootloader\x86_64-bootloader\release\build\bootloader-9b316ecbf0fa99a4\out
-cargo:rustc-link-lib=static=kernel_bin-kernel
-cargo:rerun-if-env-changed=KERNEL
-cargo:rerun-if-env-changed=KERNEL_MANIFEST
-cargo:rerun-if-changed=\\?\D:\projeckets\rust\xaoc_os\target\x86_64-xaoc_os\debug\kernel
-cargo:rerun-if-changed=build.rs

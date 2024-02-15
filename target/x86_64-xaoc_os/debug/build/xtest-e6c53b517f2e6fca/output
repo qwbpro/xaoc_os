@@ -1,3 +1,0 @@
-cargo:rerun-if-env-changed=XTEST_GENERATE_README
-cargo:rerun-if-changed=readme.template
-cargo:rerun-if-changed=src/lib.rs
